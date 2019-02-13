@@ -9,7 +9,7 @@ You need to https://cekit.readthedocs.io/en/develop/installation.html[install Ce
 ### CentOS JDK 8
 
 ```
-cekit build
+cekit --overrides-file artefact-overrides.yaml build
 ```
 
 This will produce an image named `centos/openjdk-8-centos7`

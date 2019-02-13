@@ -1,0 +1,10 @@
+artifacts:
+- name: hawkular-javaagent
+  url: https://repo1.maven.org/maven2/org/hawkular/agent/hawkular-javaagent/1.0.1.Final/hawkular-javaagent-1.0.1.Final-shaded.jar
+  md5: 1f55173d84e4ac52d0ee542e251d8b02
+- name: jolokia-jvm-1.5.0.redhat-1-agent.jar
+  url: https://repo1.maven.org/maven2/org/jolokia/jolokia-jvm/1.5.0/jolokia-jvm-1.5.0-agent.jar
+  md5: 64cb886a4a1cf5906e0f33afd76243a8
+- name: jmx_prometheus_javaagent
+  url: https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.3.1/jmx_prometheus_javaagent-0.3.1.jar
+  md5: 4f08e57afb4088469904956237c0cf8e
